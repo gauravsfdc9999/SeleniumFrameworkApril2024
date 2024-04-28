@@ -13,6 +13,7 @@ public class CartPage {
 		public void getName() {
 			System.out.println("cart page value of i: "+i);
 			System.out.println("name");
+			System.out.println("::Gaurav::");
 		}
 
 
