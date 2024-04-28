@@ -12,6 +12,9 @@ public class Google {
 	public void registration() {
 		System.out.println("Gaurav --- registration");
 		System.out.println("local registration");
+}
 
+	public void forgotPassword() {
+		System.out.println("Repo --- forgotPassword");
 	}
 }
