@@ -9,4 +9,9 @@ public class Google {
 		System.out.println("merged after resolving conflict");
 
 	}
+	public void registration() {
+		System.out.println("Gaurav --- registration");
+		System.out.println("local registration");
+
+	}
 }
