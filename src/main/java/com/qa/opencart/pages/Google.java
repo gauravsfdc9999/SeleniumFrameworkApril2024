@@ -9,4 +9,7 @@ public class Google {
 		System.out.println("merged after resolving conflict");
 
 	}
+	public void forgotPassword() {
+		System.out.println("Repo --- forgotPassword");
+	}
 }
