@@ -1,13 +1,19 @@
 package com.qa.opencart.pages;
 
+import org.openqa.selenium.By;
+
 public class CartPage {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+		
+		private final By nameLocator  = By.id("test");
 		
 		int i=10;
-		System.out.println("cart page value of i: "+i);
+		
+		public void getName() {
+			System.out.println("cart page value of i: "+i);
+			System.out.println("name");
+		}
 
-	}
 
 }
