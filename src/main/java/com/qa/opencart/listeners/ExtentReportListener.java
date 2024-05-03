@@ -21,7 +21,8 @@ public class ExtentReportListener implements ITestListener {
 	//folder
 	private static final String OUTPUT_FOLDER="./extent-test-reports/";
 	//file name
-	private static final String FILE_NAME="TestExecutionReport.html"+System.currentTimeMillis();
+//	private static final String FILE_NAME="TestExecutionReport.html"+System.currentTimeMillis();
+	private static final String FILE_NAME="TestExecutionReport.html";
 	
 	private static ExtentReports extent = init();
 	public static ThreadLocal<ExtentTest> test = new ThreadLocal<ExtentTest>();
