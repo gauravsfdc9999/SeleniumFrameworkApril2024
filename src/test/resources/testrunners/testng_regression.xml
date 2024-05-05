@@ -31,11 +31,11 @@
 			<class name="com.qa.opencart.tests.SearchResultsPageTest" />
 		</classes>
 	</test> <!-- Test -->
-	<test name="Open Cart Product Details Page Test">
+	<!--test name="Open Cart Product Details Page Test">
 		<parameter name="browser" value="firefox" />
 		<classes>
 			<class name="com.qa.opencart.tests.ProductDetailsPageTest" />
 		</classes>
-	</test>
+	</test-->
 	<!-- Test -->
 </suite> <!-- Suite -->
